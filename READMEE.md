@@ -1,2 +1,1 @@
-#Git Task Project
-This is a new feature.
+This line is for the conflict purpose
